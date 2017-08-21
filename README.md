@@ -13,20 +13,21 @@ Datasets are available as either raw counts, to be able to use any differential 
 
 Another dataset is available to be able to compare expression levels between human/tumor and murine/stroma.
 
-- Human-Tumor_Transcriptome : Upper-Quartile normalized Human genes.
-- Human-Tumor_rawcount_Transcriptome : Raw counts of Human genes
-- Murine-Stroma_Transcriptome : Upper-Quartile normalized Murine genes.
-- Murine-Stroma_rawcount_Transcriptome : Raw counts of Murine genes
-- ComparableTumorStroma_Transcriptome : Concatenated quantile co-normalised Human and Murin reads after seperate RPKM normalization. 
-- miRseq: Upper-Quartile normalized Human micro-RNA sequencing.
+- [Human-Tumor_Transcriptome](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/RNA/Human-Tumor_Transcriptome.tsv.gz) : Upper-Quartile normalized Human genes.
+- [Human-Tumor_rawcount_Transcriptome](https://github.com/RemyNicolle/PaCaOmicsDATA/blob/master/RNA/Human-Tumor_rawcount_Transcriptome.tsv.gz) : Raw counts of Human genes
+
+- [Murine-Stroma_Transcriptome](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/RNA/Murine-Stroma_Transcriptome.tsv.gz) : Upper-Quartile normalized Murine genes.
+- [Murine-Stroma_rawcount_Transcriptome](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/RNA/Murine-Stroma_rawcount_Transcriptome.tsv.gz) : Raw counts of Murine genes
+- [ComparableTumorStroma_Transcriptome](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/RNA/ComparableTumorStroma_Transcriptome.tsv.gz) : Concatenated quantile co-normalised Human and Murin reads after seperate RPKM normalization. 
+- [miRseq](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/RNA/miRseq.tsv) : Upper-Quartile normalized Human micro-RNA sequencing.
 
 
 
 #### DNA
 
-- Methylation : Illumina Infinium Human Methylation 450K BeadChip, normalized Beta-Value. Only SNP-clear probes value are shown and were used in the study.
-- CopyNumber : Illumina Infinium HumanCode-24 BeadChip SNP arrays Copy Number values. 
-- somaticMutations : Whole-Exome sequencing somatic non-synonymous mutations table.
+- [Methylation](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/DNA/Methylation.tsv.gz) : Illumina Infinium Human Methylation 450K BeadChip, normalized Beta-Value. Only SNP-clear probes value are shown and were used in the study.
+- [CopyNumber](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/DNA/Methylation.tsv.gz) : Illumina Infinium HumanCode-24 BeadChip SNP arrays Copy Number values. 
+- [somaticMutations](https://github.com/RemyNicolle/PaCaOmicsDATA/raw/master/DNA/somaticMutations.tsv) : Whole-Exome sequencing somatic non-synonymous mutations table.
 
 
 
