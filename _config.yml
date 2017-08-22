@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: PaCaOmics Data
+description: Processed dataset of the PaCaOmics clinical trial study on pancreatic adenocarcinoma patient-derived xenografts
+show_downloads: true
